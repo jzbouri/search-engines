@@ -1,0 +1,519 @@
+{
+    "word_idfs": {
+        "pear": 0.7369655941662062,
+        "banana": 0.0,
+        "peach": 0.5145731728297582,
+        "coconut": 0.32192809488736235,
+        "fig": 0.7369655941662062,
+        "kiwi": 0.32192809488736235,
+        "cherry": 0.5145731728297582,
+        "papaya": 0.5145731728297582,
+        "lime": 0.32192809488736235,
+        "blueberry": 0.32192809488736235,
+        "apple": 0.32192809488736235,
+        "apricot": 0.0,
+        "orange": 0.32192809488736235
+    },
+    "urls": {
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html": {
+            "title": "N-0",
+            "words": {
+                "kiwi": {
+                    "tf": 0.08695652173913043,
+                    "tfidf": 0.03872609348667805
+                },
+                "banana": {
+                    "tf": 0.21739130434782608,
+                    "tfidf": 0.0
+                },
+                "coconut": {
+                    "tf": 0.13043478260869565,
+                    "tfidf": 0.05694192097566775
+                },
+                "apricot": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.0
+                },
+                "apple": {
+                    "tf": 0.17391304347826086,
+                    "tfidf": 0.07447019235682993
+                },
+                "lime": {
+                    "tf": 0.08695652173913043,
+                    "tfidf": 0.03872609348667805
+                },
+                "peach": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.031595073081303486
+                },
+                "pear": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.04525008888053903
+                },
+                "cherry": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.031595073081303486
+                },
+                "papaya": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.031595073081303486
+                },
+                "blueberry": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.019766560368774045
+                },
+                "fig": {
+                    "tf": 0.043478260869565216,
+                    "tfidf": 0.04525008888053903
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-3.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-5.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-6.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-1.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-2.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html"
+            ],
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-3.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-5.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-6.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-1.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-2.html"
+            ],
+            "page_rank": 0.32242792521306984
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-3.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html"
+            ],
+            "title": "N-3",
+            "words": {
+                "lime": {
+                    "tf": 0.26666666666666666,
+                    "tfidf": 0.10978936524490102
+                },
+                "papaya": {
+                    "tf": 0.2,
+                    "tfidf": 0.13535044877328553
+                },
+                "peach": {
+                    "tf": 0.06666666666666667,
+                    "tfidf": 0.04791160163801364
+                },
+                "apricot": {
+                    "tf": 0.2,
+                    "tfidf": 0.0
+                },
+                "kiwi": {
+                    "tf": 0.06666666666666667,
+                    "tfidf": 0.02997453317184664
+                },
+                "blueberry": {
+                    "tf": 0.06666666666666667,
+                    "tfidf": 0.02997453317184664
+                },
+                "banana": {
+                    "tf": 0.06666666666666667,
+                    "tfidf": 0.0
+                },
+                "apple": {
+                    "tf": 0.06666666666666667,
+                    "tfidf": 0.02997453317184664
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.08195553289283848
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-3.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-4",
+            "words": {
+                "banana": {
+                    "tf": 0.125,
+                    "tfidf": 0.0
+                },
+                "orange": {
+                    "tf": 0.09375,
+                    "tfidf": 0.04161983534638364
+                },
+                "apple": {
+                    "tf": 0.125,
+                    "tfidf": 0.054703631988055924
+                },
+                "lime": {
+                    "tf": 0.03125,
+                    "tfidf": 0.014291714269269087
+                },
+                "blueberry": {
+                    "tf": 0.125,
+                    "tfidf": 0.054703631988055924
+                },
+                "cherry": {
+                    "tf": 0.25,
+                    "tfidf": 0.1656555612092295
+                },
+                "coconut": {
+                    "tf": 0.03125,
+                    "tfidf": 0.014291714269269087
+                },
+                "pear": {
+                    "tf": 0.0625,
+                    "tfidf": 0.06445710476952095
+                },
+                "fig": {
+                    "tf": 0.0625,
+                    "tfidf": 0.06445710476952095
+                },
+                "apricot": {
+                    "tf": 0.03125,
+                    "tfidf": 0.0
+                },
+                "papaya": {
+                    "tf": 0.0625,
+                    "tfidf": 0.045006031726892604
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-3.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html"
+            ],
+            "page_rank": 0.11896585666418057
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-7",
+            "words": {
+                "blueberry": {
+                    "tf": 0.125,
+                    "tfidf": 0.054703631988055924
+                },
+                "orange": {
+                    "tf": 0.25,
+                    "tfidf": 0.10363769827780657
+                },
+                "apricot": {
+                    "tf": 0.125,
+                    "tfidf": 0.0
+                },
+                "fig": {
+                    "tf": 0.0625,
+                    "tfidf": 0.06445710476952095
+                },
+                "banana": {
+                    "tf": 0.125,
+                    "tfidf": 0.0
+                },
+                "peach": {
+                    "tf": 0.0625,
+                    "tfidf": 0.045006031726892604
+                },
+                "lime": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "coconut": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "kiwi": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "pear": {
+                    "tf": 0.0625,
+                    "tfidf": 0.06445710476952095
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-4.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html"
+            ],
+            "page_rank": 0.1193932386820949
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-9.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-8",
+            "words": {
+                "banana": {
+                    "tf": 0.25,
+                    "tfidf": 0.0
+                },
+                "apricot": {
+                    "tf": 0.25,
+                    "tfidf": 0.0
+                },
+                "kiwi": {
+                    "tf": 0.25,
+                    "tfidf": 0.10363769827780657
+                },
+                "blueberry": {
+                    "tf": 0.25,
+                    "tfidf": 0.10363769827780657
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-7.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-9.html",
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.1247652197659184
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-9.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html"
+            ],
+            "title": "N-9",
+            "words": {
+                "apple": {
+                    "tf": 0.16216216216216217,
+                    "tfidf": 0.06979767743420133
+                },
+                "apricot": {
+                    "tf": 0.16216216216216217,
+                    "tfidf": 0.0
+                },
+                "peach": {
+                    "tf": 0.10810810810810811,
+                    "tfidf": 0.07620758655640758
+                },
+                "coconut": {
+                    "tf": 0.05405405405405406,
+                    "tfidf": 0.02445006963027565
+                },
+                "pear": {
+                    "tf": 0.13513513513513514,
+                    "tfidf": 0.13476451852905313
+                },
+                "lime": {
+                    "tf": 0.05405405405405406,
+                    "tfidf": 0.02445006963027565
+                },
+                "orange": {
+                    "tf": 0.05405405405405406,
+                    "tfidf": 0.02445006963027565
+                },
+                "banana": {
+                    "tf": 0.10810810810810811,
+                    "tfidf": 0.0
+                },
+                "papaya": {
+                    "tf": 0.05405405405405406,
+                    "tfidf": 0.03908124238104001
+                },
+                "cherry": {
+                    "tf": 0.08108108108108109,
+                    "tfidf": 0.05787647829766945
+                },
+                "kiwi": {
+                    "tf": 0.02702702702702703,
+                    "tfidf": 0.012385909108380427
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-8.html"
+            ],
+            "page_rank": 0.04743770578925643
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-5.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-5",
+            "words": {
+                "apple": {
+                    "tf": 0.18181818181818182,
+                    "tfidf": 0.07758727832568058
+                },
+                "banana": {
+                    "tf": 0.18181818181818182,
+                    "tfidf": 0.0
+                },
+                "papaya": {
+                    "tf": 0.18181818181818182,
+                    "tfidf": 0.12401630243933787
+                },
+                "apricot": {
+                    "tf": 0.18181818181818182,
+                    "tfidf": 0.0
+                },
+                "orange": {
+                    "tf": 0.09090909090909091,
+                    "tfidf": 0.0404119177187868
+                },
+                "coconut": {
+                    "tf": 0.09090909090909091,
+                    "tfidf": 0.0404119177187868
+                },
+                "cherry": {
+                    "tf": 0.09090909090909091,
+                    "tfidf": 0.06459482428200948
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.04626363024816037
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-6.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-6",
+            "words": {
+                "apple": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "fig": {
+                    "tf": 0.1875,
+                    "tfidf": 0.18271404725510207
+                },
+                "lime": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "peach": {
+                    "tf": 0.0625,
+                    "tfidf": 0.045006031726892604
+                },
+                "orange": {
+                    "tf": 0.125,
+                    "tfidf": 0.054703631988055924
+                },
+                "blueberry": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                },
+                "apricot": {
+                    "tf": 0.0625,
+                    "tfidf": 0.0
+                },
+                "pear": {
+                    "tf": 0.1875,
+                    "tfidf": 0.18271404725510207
+                },
+                "banana": {
+                    "tf": 0.125,
+                    "tfidf": 0.0
+                },
+                "kiwi": {
+                    "tf": 0.0625,
+                    "tfidf": 0.02815674585715757
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.04626363024816037
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-1.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-1",
+            "words": {
+                "fig": {
+                    "tf": 0.15,
+                    "tfidf": 0.14859721830091777
+                },
+                "lime": {
+                    "tf": 0.1,
+                    "tfidf": 0.044266247441115764
+                },
+                "blueberry": {
+                    "tf": 0.2,
+                    "tfidf": 0.08467816515990254
+                },
+                "orange": {
+                    "tf": 0.1,
+                    "tfidf": 0.044266247441115764
+                },
+                "cherry": {
+                    "tf": 0.15,
+                    "tfidf": 0.10375537569198201
+                },
+                "kiwi": {
+                    "tf": 0.05,
+                    "tfidf": 0.02266030222847964
+                },
+                "apricot": {
+                    "tf": 0.1,
+                    "tfidf": 0.0
+                },
+                "peach": {
+                    "tf": 0.05,
+                    "tfidf": 0.03622045978643087
+                },
+                "banana": {
+                    "tf": 0.05,
+                    "tfidf": 0.0
+                },
+                "coconut": {
+                    "tf": 0.05,
+                    "tfidf": 0.02266030222847964
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.04626363024816037
+        },
+        "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-2.html": {
+            "incoming_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "title": "N-2",
+            "words": {
+                "coconut": {
+                    "tf": 0.2857142857142857,
+                    "tfidf": 0.11672149491947882
+                },
+                "apple": {
+                    "tf": 0.14285714285714285,
+                    "tfidf": 0.06201786293142292
+                },
+                "orange": {
+                    "tf": 0.2857142857142857,
+                    "tfidf": 0.11672149491947882
+                },
+                "cherry": {
+                    "tf": 0.14285714285714285,
+                    "tfidf": 0.0991299889868547
+                },
+                "papaya": {
+                    "tf": 0.14285714285714285,
+                    "tfidf": 0.0991299889868547
+                }
+            },
+            "outgoing_links": [
+                "http://people.scs.carleton.ca/~davidmckenney/tinyfruits/N-0.html"
+            ],
+            "page_rank": 0.04626363024816037
+        }
+    }
+}
